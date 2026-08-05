@@ -3,7 +3,11 @@ import { galleryProjects } from "../../utils/constants.js";
 
 function Gallery() {
   return (
-    <section id="gallery" className="section gallery-section" aria-labelledby="gallery-title">
+    <section
+      id="gallery"
+      className="section gallery-section"
+      aria-labelledby="gallery-title"
+    >
       <div className="section__heading">
         <div>
           <p className="eyebrow">Project Gallery</p>
@@ -24,7 +28,7 @@ function Gallery() {
                 alt={project.alt}
                 loading="lazy"
               />
-              <span className="gallery-card__slot">{String(project.id).padStart(2, "0")}</span>
+              {/* <span className="gallery-card__slot">{String(project.id).padStart(2, "0")}</span> */}
             </div>
             <div className="gallery-card__content">
               <h3>{project.title}</h3>
