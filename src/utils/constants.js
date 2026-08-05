@@ -5,8 +5,8 @@ export const business = {
   phoneDisplay: "(970) 846-6958",
   phoneHref: "tel:+19708466958",
   email: "ajd691492@gmail.com",
-  address: "Business address to be provided",
-  serviceArea: "Service area to be provided",
+  address: "Located in Steamboat Springs, Co.",
+  serviceArea: "Servicing Steamboat Springs & Surrounding Areas",
 };
 
 export const navigationLinks = [
@@ -135,4 +135,3 @@ import framingAerial from "../assets/images/framing-aerial.webp";
 import newConstruction from "../assets/images/new-construction.webp";
 import roofInstallation from "../assets/images/roof-installation.webp";
 import windowInstallation from "../assets/images/window-installation.webp";
-
