@@ -1,0 +1,11 @@
+html { line-height: 1.15; -webkit-text-size-adjust: 100%; }
+main { display: block; }
+h1 { margin: 0.67em 0; }
+button, input, optgroup, select, textarea {
+  margin: 0;
+  font: inherit;
+  line-height: 1.15;
+}
+button { overflow: visible; text-transform: none; }
+button, [type="button"], [type="reset"], [type="submit"] { -webkit-appearance: button; }
+
