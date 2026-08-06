@@ -1,12 +1,15 @@
 import "./About.css";
-import businessCard from "../../assets/images/a1j-business-card.webp";
+import businessCard from "../../assets/images/a1j-business-card.jpg";
 
 function About() {
   return (
     <section id="about" className="about" aria-labelledby="about-title">
       <div className="about__visual">
         <div className="about__frame">
-          <img src={businessCard} alt="A1-J Construction blue and white business card design" />
+          <img
+            src={businessCard}
+            alt="A1-J Construction blue and white business card design"
+          />
         </div>
         <p className="about__weather-note">
           <span>All-season mindset</span>
@@ -15,11 +18,14 @@ function About() {
       </div>
       <div className="about__content">
         <p className="eyebrow">Built on Experience</p>
-        <h2 id="about-title">A new business backed by real industry experience.</h2>
+        <h2 id="about-title">
+          A new business backed by real industry experience.
+        </h2>
         <p>
           A1-J Construction may be a new company, but its foundation comes from
-          hands-on experience gained while working with other construction companies.
-          That experience now supports a business prepared to take on both big and small projects.
+          hands-on experience gained while working with other construction
+          companies. That experience now supports a business prepared to take on
+          both big and small projects.
         </p>
         <ul className="about__list">
           <li>Construction, renovations, and repairs</li>
@@ -36,4 +42,3 @@ function About() {
 }
 
 export default About;
-
