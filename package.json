@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://thegrindnet.github.io/a1j-construction-website/",
+  "homepage": "https://a1jconstruction.com",
   "scripts": {
     "dev": "vite --open",
     "build": "vite build",
