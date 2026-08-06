@@ -4,7 +4,7 @@ export const business = {
   tagline: "Built for Every Project. Ready for Every Season.",
   phoneDisplay: "(970) 846-6958",
   phoneHref: "tel:+19708466958",
-  email: "ajd691492@gmail.com",
+  email: "aj@a1jconstruction.com",
   address: "Located in Steamboat Springs, Co.",
   serviceArea: "Servicing Steamboat Springs & Surrounding Areas",
 };
