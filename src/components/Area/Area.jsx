@@ -6,7 +6,7 @@ function Area() {
   return (
     <section className="areaOfService">
       <eyebrow className="eyebrow">Area of Service</eyebrow>
-      <h2>We Serve the Following Areas:</h2>
+      <h2 className="areaOfService__title">We Serve the Following Areas:</h2>
       <div className="areaOfService__table">
         {areaOfService.map((city) => (
           <div className="cityArea">

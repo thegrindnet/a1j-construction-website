@@ -4,20 +4,25 @@
 
 .areaOfService__table {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(50px, 250px));
   column-gap: 20px;
-  justify-items: center;
+  justify-content: center;
 }
 
 .areaOfService__checkmark {
-  width: 25px;
-  height: 25px;
+  width: 30px;
+  height: 30px;
   aspect-ratio: 1 / 1;
+}
+
+.areaOfService__title {
+  font-size: clamp(2.1rem, 4.5vw, 4.4rem);
 }
 
 .cityArea {
   display: flex;
   align-items: center;
-  gap: 5px;
+  /* justify-content: center; */
+  gap: 15px;
   font-size: 25px;
 }
