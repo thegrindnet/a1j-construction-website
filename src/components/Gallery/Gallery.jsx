@@ -28,7 +28,6 @@ function Gallery() {
                 alt={project.alt}
                 loading="lazy"
               />
-              {/* <span className="gallery-card__slot">{String(project.id).padStart(2, "0")}</span> */}
             </div>
             <div className="gallery-card__content">
               <h3>{project.title}</h3>

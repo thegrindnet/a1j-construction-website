@@ -16,6 +16,35 @@ export const navigationLinks = [
   { label: "Contact", href: "#contact" },
 ];
 
+export const areaOfService = [
+  "Aspen",
+  "Avon",
+  "Bond",
+  "Burns",
+  "Clark",
+  "Coalmont",
+  "Collbran",
+  "Cowdrey",
+  "Craig",
+  "Cedaredge",
+  "Cimarron",
+  "Crawford",
+  "Crested Butte",
+  "Eagle",
+  "Edwards",
+  "Fraser",
+  "Glenwood Springs",
+  "Granby",
+  "Grand Junction",
+  "Grand Lake",
+  "Gypsum",
+  "Hamilton",
+  "Hayden",
+  "Hot Sulphur Springs",
+  "Kremmling",
+  "McCoy",
+];
+
 export const services = [
   {
     number: "01",

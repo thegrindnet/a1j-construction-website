@@ -4,6 +4,7 @@ import Hero from "../Hero/Hero.jsx";
 import Services from "../Services/Services.jsx";
 import About from "../About/About.jsx";
 import Gallery from "../Gallery/Gallery.jsx";
+import Area from "../Area/Area.jsx";
 import Contact from "../Contact/Contact.jsx";
 import Footer from "../Footer/Footer.jsx";
 
@@ -16,6 +17,7 @@ function App() {
         <Services />
         <About />
         <Gallery />
+        <Area />
         <Contact />
       </main>
       <Footer />
@@ -24,4 +26,3 @@ function App() {
 }
 
 export default App;
-
