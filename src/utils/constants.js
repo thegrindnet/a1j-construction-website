@@ -64,6 +64,24 @@ export const services = [
     description:
       "Practical repair work approached with the same care and professionalism as a larger construction project.",
   },
+  {
+    number: "04",
+    title: "All Types of Siding Exterior",
+    description:
+      "We have experience with: Smart siding • Diamond Kote • Hardie Board • Rough Sawn •  Metal Siding",
+  },
+  {
+    number: "05",
+    title: "Remodels and Interior Finish Work",
+    description:
+      "We can remodel: Decks • Houses • Apartments • Condos • Basements • Lift and Replace Old Cabin Logs • Fix damage due to weather • Interior and Exterior • Cabinets • Baseboard • Casing • Trim LVT • Flooring Hang Doors",
+  },
+  {
+    number: "06",
+    title: "All Types of Structural Framing",
+    description:
+      "We can tackled many structural framing projects that include: Platform • Balloon • Timber Framing",
+  },
 ];
 
 export const galleryProjects = [
