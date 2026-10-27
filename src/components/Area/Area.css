@@ -1,0 +1,23 @@
+.areaOfService {
+  padding: 100px 30px;
+}
+
+.areaOfService__table {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 20px;
+  justify-items: center;
+}
+
+.areaOfService__checkmark {
+  width: 25px;
+  height: 25px;
+  aspect-ratio: 1 / 1;
+}
+
+.cityArea {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 25px;
+}
