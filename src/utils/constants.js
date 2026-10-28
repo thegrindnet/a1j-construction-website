@@ -169,7 +169,78 @@ export const galleryProjects = [
     image: windowInstallation,
     alt: "Construction crew installing an exterior window on a home",
   },
+  {
+    id: 13,
+    title: "Siding Project",
+    note: "Beautiful siding installation on large home",
+    image: largeSiding1,
+    alt: "Siding installation on a beautiful home side view",
+  },
+  {
+    id: 14,
+    title: "Siding Project",
+    note: "Different view of the siding installation",
+    image: largeSiding2,
+    alt: "Front view of the siding project installation",
+  },
+  {
+    id: 15,
+    title: "Metal Roof Install",
+    note: "Professional metal roof installation",
+    image: roofInstallation2,
+    alt: "Workers installing a metal roof",
+  },
+  {
+    id: 16,
+    title: "Building Restoration",
+    note: "Large residential building restoration project",
+    image: restorationProject,
+    alt: "Large residential building restoration",
+  },
+  {
+    id: 17,
+    title: "Framing Projects",
+    note: "Compilation of expertly made building frames",
+    image: framingCompilation,
+    alt: "Images showing different framing projects",
+  },
+  {
+    id: 18,
+    title: "Siding Projects",
+    note: "Compilation of professional installed siding",
+    image: sidingCompilation,
+    alt: "Images showing different siding projects",
+  },
+  {
+    id: 19,
+    title: "Flooring Projects",
+    note: "Compilation of professional installed floors",
+    image: flooringCompilation,
+    alt: "Images showing different flooring projects",
+  },
+  {
+    id: 20,
+    title: "More Siding Projects",
+    note: "Another compilation of professional installed siding",
+    image: sidingCompilation2,
+    alt: "Images showing more siding projects",
+  },
+  {
+    id: 21,
+    title: "General Construction",
+    note: "No construction job too small or too big",
+    image: generalConstruction,
+    alt: "",
+  },
+  {
+    id: 22,
+    title: "Cabinet Installation",
+    note: "Professional Cabinet Installation",
+    image: cabinets,
+    alt: "Professional cabinet installation",
+  },
 ];
+
 import projectAfter from "../assets/images/project-exterior-after.webp";
 import projectBefore from "../assets/images/project-exterior-before.webp";
 import framingRoofDeck from "../assets/images/framing-roof-deck.webp";
@@ -182,3 +253,13 @@ import framingAerial from "../assets/images/framing-aerial.webp";
 import newConstruction from "../assets/images/new-construction.webp";
 import roofInstallation from "../assets/images/roof-installation.webp";
 import windowInstallation from "../assets/images/window-installation.webp";
+import largeSiding1 from "../assets/images/large-siding1.jpeg";
+import largeSiding2 from "../assets/images/large-siding2.jpeg";
+import roofInstallation2 from "../assets/images/roof-installation2.jpeg";
+import restorationProject from "../assets/images/siding-compilation3.jpeg";
+import framingCompilation from "../assets/images/framing-compilation.jpeg";
+import sidingCompilation from "../assets/images/siding-compilation.jpeg";
+import flooringCompilation from "../assets/images/flooring-compilation.jpeg";
+import sidingCompilation2 from "../assets/images/siding-compilation2.jpeg";
+import generalConstruction from "../assets/images/misc-construction.jpeg";
+import cabinets from "../assets/images/cabinets.jpeg";

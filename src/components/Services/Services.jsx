@@ -24,8 +24,6 @@ function Services() {
       <div className="services">
         {services.map((service) => (
           <article className="service-card" key={service.title}>
-            {/* <span className="service-card__number">{service.number}</span> */}
-            {/* <div className="service-card__line" /> */}
             <h3>{service.title}</h3>
             <p>{service.description}</p>
           </article>
