@@ -43,6 +43,8 @@ export const areaOfService = [
   "Hot Sulphur Springs",
   "Kremmling",
   "McCoy",
+  "Denver",
+  "Steamboat Springs",
 ];
 
 export const services = [
